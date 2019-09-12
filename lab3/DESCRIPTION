@@ -1,10 +1,11 @@
-Package: lab3
+Package: r_lab3
 Type: Package
-Title: euclidean() & ...
+Title: Euclidean and Dijkstras algorithm
 Version: 1.0
 Date: 2019-09-11
-Author: Mecon & Bjorn
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Mecon & Bjorn & Mahbuba
+Maintainer: Bjorn Hansen <bjorn_hansen95@yahoo.com>
+Description: Uses the Euclidean to find out the greatest common divisior of two numbers and 
+      the Dijkstras algorithm is to calculate the shortest path from the initial node to every other node in the graph.
+License: MIT + file LICENSE
 RoxygenNote: 6.1.1

@@ -1,4 +1,8 @@
+install:
+  - Rscript -e 'devtools::install_deps("r_lab3")'
+script:
+  - Rscript -e 'devtools::check("r_lab3")'
+
 language: r
 cache: packages
 
-before_install:cd r_lab3

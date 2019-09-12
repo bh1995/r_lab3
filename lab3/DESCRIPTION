@@ -3,7 +3,7 @@ Type: Package
 Title: Euclidean and Dijkstras algorithm
 Version: 1.0
 Date: 2019-09-11
-Author: Mecon & Bjorn & Mahbuba
+Author: Weng Hang Wong & Bjorn Hansen & Mahbuba Haque
 Maintainer: Bjorn Hansen <bjorn_hansen95@yahoo.com>
 Description: Uses the Euclidean to find out the greatest common divisior of two numbers and 
       the Dijkstras algorithm is to calculate the shortest path from the initial node to every other node in the graph.

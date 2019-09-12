@@ -1,8 +1,4 @@
-install:
-  - Rscript -e 'install.packages(c("devtools","roxygen2","testthat"));devtools::install_deps("RPackage")'
-script:
-  - Rscript -e 'devtools::check("RPackage")'
-
 language: r
 cache: packages
 
+before_install:cd r_lab3

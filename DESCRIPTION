@@ -1,4 +1,4 @@
-Package: r_lab3
+Package: rlab3
 Title: Package
 Description: The euclidean function is to find the greatest common divisor of two numbers.
 Version: 0.1
